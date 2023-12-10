@@ -30,6 +30,6 @@ There are a few areas of concern at the solar power plant:
 
 8. **Identifying the Need for Panel Cleaning/Maintenance and Faulty Equipment** - By looking at sudden drops and consistency in normalized power output, we tried to identify the need for panel cleaning/maintenance and whether any equipment was faulty or underperforming.
 
-Based on this comprehensive analysis, valuable and actionable insights were uncovered with essential recommendations provided for maintaining solar panel efficiency and identifying early potential issues related to cleanliness and equipment performance. 
+* Based on this comprehensive analysis, valuable and actionable insights were uncovered with essential recommendations provided for maintaining solar panel efficiency and identifying early potential issues related to cleanliness and equipment performance. 
 
-It was concluded that an effective solar power plant operation should include regular health monitoring of equipment, proactive cleanliness checks and maintenance, and making good use of predictive analytics to enhance operational efficiency and preemptively detect potential issues.
+* It was concluded that an effective solar power plant operation should include regular health monitoring of equipment, proactive cleanliness checks and maintenance, and making good use of predictive analytics to enhance operational efficiency and preemptively detect potential issues.
