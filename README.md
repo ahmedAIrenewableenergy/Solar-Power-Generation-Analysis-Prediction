@@ -7,7 +7,9 @@ This data has been gathered at two solar power plants in India over a 34 day per
 There are a few areas of concern at the solar power plant:
 
 1- Can we predict the power generation for next couple of days? - this allows for better grid management.
+
 2- Can we identify the need for panel cleaning/maintenance?
+
 3- Can we identify faulty or suboptimally performing equipment?
 
 ## To get these areas of concer answered, the project has followed a systematic process for data analysis. The steps involved in this analysis project were:
